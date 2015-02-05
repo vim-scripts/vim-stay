@@ -1,4 +1,8 @@
+<<<<<<< HEAD
+*vim-stay.txt*        For Vim version 7.0 or better          version 1.0.1
+=======
 *vim-stay.txt*        For Vim version 7.0 or better          version 1.1.0
+>>>>>>> fastfold-integration
 
 
 		VIM REFERENCE for the Stay plug-in
@@ -59,7 +63,10 @@ INTEGRATION WITH 3RD PARTY PLUG-INS:
 Out of the box, vim-stay integrates with the following plug-ins:
 
 1. vim-fetch	http://www.vim.org/scripts/script.php?script_id=5089
+<<<<<<< HEAD
+=======
 2. FastFold     https://github.com/Konfekt/FastFold
+>>>>>>> fastfold-integration
 
 If you'd like vim-stay to integrate with other position-setting or view
 management plug-ins, open an issue or a PR at
